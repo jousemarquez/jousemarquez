@@ -2,7 +2,6 @@
 ### Estudiante de Desarrollo Web
 #### Me he inspirado en el gran Brais Moure para construir este Readme.md. Puedes ver su magnífico contenido en [Moure](https://github.com/mouredev)!
 
-
 [![Website](https://img.shields.io/website?down_color=lighgrey&down_message=offline&style=social&up_color=blue&up_message=visit&url=https%3A%2F%2Fquoromtv.com%2F)](https://www.quoromtv.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/quoromtv?style=social)](https://twitter.com/quoromtv)
 [![Twitch Status](https://img.shields.io/twitch/status/quoromtv?style=social)](https://twitch.com/quoromtv)
