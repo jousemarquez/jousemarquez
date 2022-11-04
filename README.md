@@ -45,7 +45,7 @@ Disponible la versión de pruebas en **[iOS](https://siegeofmytra.com/testflight
     <tr>
     <td>
 	<a href="https://youtu.be/rnYLpja9pPM">
-  		<img src="https://i9.ytimg.com/vi_webp/rnYLpja9pPM/mqdefault.webp?v=62e93077&sqp=CKD_iJsG&rs=AOn4CLBNpwepMTovS89Cn8ow0pOLEwGSHQ">
+  		<img src="https://i9.ytimg.com/vi_webp/rnYLpja9pPM/mqdefault.webp?v=62e93077&sqp=CIzOlZsG&rs=AOn4CLAnKyl375PQvndFEt1NaTy5x5MIQQ">
 	</a>
 	</td>
     <tr>
