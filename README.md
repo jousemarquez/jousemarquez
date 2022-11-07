@@ -1,4 +1,4 @@
-# ![https://quoromtv.com](../jousemarquez/media/logo-quorom.png) Hola mundo, mi nombre es Jouse Márquez pero todo el mundo me llama Quorom ⚔️
+# ![https://quoromtv.com](https://github.com/jousemarquez/jousemarquez/blob/main/media/logo-quorom.png) Hola mundo, mi nombre es Jouse Márquez pero todo el mundo me llama Quorom ⚔️
 ### Estudiante de Desarrollo Web
 #### Me he inspirado en el gran Brais Moure para construir este Readme.md. Puedes ver su magnífico contenido en [Moure](https://github.com/mouredev)!
 
@@ -31,7 +31,7 @@ Puedes ver mis repositorios de [**JAVA**](https://github.com/jousemarquez/Progra
 [![TikTok](https://img.shields.io/badge/TikTok-@quoromtv-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@quoromtv)
 
 ## Siege of Mytra: Asedio de Castillos en la Blockchain
-![https://siegeofmytra.com/](../jousemarquez/media/siege%20of%20mytra.png)
+![https://siegeofmytra.com/](https://github.com/jousemarquez/jousemarquez/blob/main/media/siege%20of%20mytra.png)
 
 **Siege of Mytra** es un videojuego móvil de estrategia RPG asíncrono basado en la cadena de bloques de [*WAX*](https://on.wax.io/wax-io/). Comanda a tus héroes, construye tu ejército de tropas y mercenarios, asedia castillos enemigos, gana recursos y clasifica en el ranking de la comunidad de Siege of Mytra para conseguir premios en NFT y tokens de $DOBLON.
 
@@ -45,7 +45,7 @@ Disponible la versión de pruebas en **[iOS](https://siegeofmytra.com/testflight
     <tr>
     <td>
 	<a href="https://youtu.be/rnYLpja9pPM">
-  		<img src="../jousemarquez/media/youtube1.webp">
+  		<img src="https://raw.githubusercontent.com/jousemarquez/jousemarquez/main/media/youtube1.webp">
 	</a>
 	</td>
     <tr>
@@ -59,7 +59,7 @@ Onikami (*oni + kami*) Games surgió a principios de 2013 como el embrión de un
 
 Actualmente trabajamos en el desarrollo de videojuegos en la blockchain con **Siege of Mytra** y en la elaboración de smart contract con fines comerciales.
 
-[![Web](../jousemarquez/media/onikami.png)
+[![Web](https://github.com/jousemarquez/jousemarquez/blob/main/media/onikami.png)
 
 ## Contacto y apoyo:
 
