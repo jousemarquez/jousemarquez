@@ -59,7 +59,7 @@ Onikami (*oni + kami*) Games surgió a principios de 2013 como el embrión de un
 
 Actualmente trabajamos en el desarrollo de videojuegos en la blockchain con **Siege of Mytra** y en la elaboración de smart contract con fines comerciales.
 
-[![Web](https://github.com/jousemarquez/jousemarquez/blob/main/media/onikami.png)
+[![Web](https://img.shields.io/badge/Onikami%20Games-Web%20Oficial-pink?style=for-the-badge)](https://onikami.com/)
 
 ## Contacto y apoyo:
 
