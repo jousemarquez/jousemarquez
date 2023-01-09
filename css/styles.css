@@ -19,63 +19,75 @@ body {
     padding: 0;
     display: flex;
     background-color: #181818;
+    cursor: url('../img/cursor_active.png'),auto;
 }
 
 h1 {
-    font-size: 3.5em;
+    font-size: 3.5rem;
 }
 
 h2 {
-    font-size: 2.7em;
+    font-size: 2.7rem;
 }
 
 h3 {
-    font-size: 2em;
+    font-size: 2rem;
 }
 
 h6 {
-    font-size: 0.6em;
+    font-size: 0.6rem;
     margin: 0;
     padding: 0;
+}
+
+h6 a {
+    font-size: 0.6rem;
+}
+
+#blue, b {
+    color: #19cae0;
 }
 
 p,
 li,
 label {
-    font-size: 1em;
+    font-size: 1rem;
 }
 
 fieldset {
-    font-size: 1.25em;
+    font-size: 1.25rem;
 }
 
 a {
-    font-size: 1em;
+    font-size: 1rem;
+    cursor: url('../img/cursor_hover.png'),auto;
 }
 
 a:link {
     color: white;
     text-decoration: none;
+    cursor: url('../img/cursor_hover.png'),auto;
 }
 
 a:visited {
     color: purple;
+    cursor: url('../img/cursor_hover.png'),auto;
 }
 
 a:hover {
     color: yellow;
-    cursor: pointer;
+    cursor: url('../img/cursor_hover.png'),auto;
 }
 
 a:active {
     color: blue;
-    cursor: pointer;
+    cursor: url('../img/cursor_hover.png'),auto;
 }
 
 button,
 input[type=submit],
 input[type=reset],
-#nav_elements ul a {
+#nav_elements a {
     display: flex;
     justify-content: center;
     width: 200px;
@@ -85,26 +97,44 @@ input[type=reset],
     border: 2px solid #19cae0;
     background-color: transparent;
     color: #fff;
-    font-size: 1.5em;
+    font-size: 1.5rem;
     text-align: center;
     text-transform: capitalize;
-    cursor: pointer;
+    cursor: url('../img/cursor_hover.png'),auto;
     box-shadow: 0 0 10px 1px rgb(25 202 224 / 20%);
     -webkit-transition: .3s cubic-bezier(.645, .045, .355, 1);
     transition: .3s cubic-bezier(0.65, 0.05, 0.36, 1);
 }
 
+iframe {
+    box-shadow: 0 0 10px 1px rgb(25 202 224 / 20%);
+    -webkit-transition: .3s cubic-bezier(.645, .045, .355, 1);
+    transition: .3s cubic-bezier(0.65, 0.05, 0.36, 1);
+    cursor: url('../img/cursor_hover.png'),auto;
+}
+
 button:hover,
 input:hover[type=submit],
-input:hover[type=reset],
-#nav_elements ul a:hover,
-#nav_elements ul a:active {
+#nav_elements a:hover,
+#nav_elements a:active {
     background-color: rgba(25, 202, 224, .2);
     box-shadow: 0 0 10px 1px rgb(25 202 224 / 40%);
     -webkit-transform: scale(1.1);
     -ms-transform: scale(1.1);
     transform: scale(1.1);
     color: #fff;
+    cursor: url('../img/cursor_hover.png'),auto;
+}
+
+input:hover[type=reset] {
+    background-color: #e0197336;
+    box-shadow: 0 0 10px 1px #e0197366;
+    border: 2px solid #e01973ff;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    color: #fff;
+    cursor: url('../img/cursor_hover.png'),auto;
 }
 
 aside {
@@ -139,11 +169,7 @@ aside nav {
     gap: 20px;
 }
 
-#nav_elements ul {
-    padding-inline-start: 0px;
-}
-
-#nav_elements ul a {
+#nav_elements a {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -158,10 +184,10 @@ aside nav {
     margin: 5px 5px;
     padding: 15px 15px;
     list-style: none;
-    font-size: 1em;
+    font-size: 1rem;
     text-align: center;
     text-transform: uppercase;
-    cursor: pointer;
+    cursor: url('../img/cursor_hover.png'),auto;
     box-shadow: 0 0 10px 1px rgb(25 202 224 / 20%);
     -webkit-transition: .3s cubic-bezier(.645, .045, .355, 1);
     transition: .3s cubic-bezier(0.65, 0.05, 0.36, 1);
@@ -319,8 +345,11 @@ footer {
 
 /* SERVICIOS */
 .services,
-.about {
+.about,
+.aboutme,
+.contact {
     padding-bottom: 3em;
+    width: 100vw;
 }
 
 .services>ul:nth-child(odd) {
@@ -346,6 +375,9 @@ table {
     margin-bottom: 8em;
     -webkit-transition: .5s cubic-bezier(.645, .045, .355, 1);
     transition: .5s cubic-bezier(.645, .045, .355, 1);
+    box-shadow: 0 0 10px 1px rgb(25 202 224 / 20%);
+    -webkit-transition: .3s cubic-bezier(.645, .045, .355, 1);
+    transition: .3s cubic-bezier(0.65, 0.05, 0.36, 1);
 }
 
 table:hover {
@@ -388,6 +420,7 @@ legend {
 form {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-around;
     height: auto;
     width: auto;
@@ -420,17 +453,14 @@ form {
 
 form textarea {
     width: 400px;
+    max-width: 40vw;
     height: 400px;
-}
-
-.entrada {
-    font-size: 0.8em;
-}
-
-textarea {
     font-size: 1em;
     border: 2px solid #19cae0;
+}
 
+.input_text {
+    font-size: 0.8em;
 }
 
 .buttons_block {
