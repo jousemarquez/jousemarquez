@@ -113,7 +113,7 @@ iframe {
     cursor: url('../img/cursor_hover.png'),auto;
 }
 
-button:hover,
+a[href="#"], button:hover,
 input:hover[type=submit],
 #nav_elements a:hover,
 #nav_elements a:active {
