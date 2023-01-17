@@ -113,10 +113,10 @@ iframe {
     cursor: url('../img/cursor_hover.png'),auto;
 }
 
-a[href="#"], button:hover,
+button:hover,
 input:hover[type=submit],
 #nav_elements a:hover,
-#nav_elements a:active {
+#nav_elements a:active, a[href="#"] {
     background-color: rgba(25, 202, 224, .2);
     box-shadow: 0 0 10px 1px rgb(25 202 224 / 40%);
     -webkit-transform: scale(1.1);
