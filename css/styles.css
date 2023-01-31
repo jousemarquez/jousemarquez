@@ -61,10 +61,11 @@ fieldset {
 a {
     font-size: 1rem;
     cursor: url('../img/cursor_hover.png'),auto;
+    font-weight: bold;
 }
 
 a:link {
-    color: white;
+    color: rgb(193, 191, 191);
     text-decoration: none;
     cursor: url('../img/cursor_hover.png'),auto;
 }
@@ -314,7 +315,7 @@ footer {
 }
 
 .blog article,
-.card, #disqus_thread {
+.card {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -329,7 +330,7 @@ footer {
 }
 
 .blog article:hover,
-.portfolio div:hover, #disqus_thread:hover, iframe:hover{
+.portfolio div:hover, iframe:hover{
     border-color: #19cae0;
     box-shadow: 0 0 30px 10px rgb(25 202 224 / 20%);
     opacity: 1;
@@ -348,7 +349,8 @@ footer {
     width: 100vw;
 }
 #disqus_thread {
-    width: 70vw;
+    width: 100%;
+    scale: 80%;
 }
 
 .services>ul:nth-child(odd) {
