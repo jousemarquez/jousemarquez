@@ -115,6 +115,11 @@ iframe {
     cursor: url('../img/cursor_hover.png'),auto;
 }
 
+figure img {
+    max-width: 60vw;
+    margin: 10px 10px;
+}
+
 button:hover, .button,
 input:hover[type=submit],
 #nav_elements a:hover,
