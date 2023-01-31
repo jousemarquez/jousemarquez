@@ -84,7 +84,7 @@ a:active {
     cursor: url('../img/cursor_hover.png'),auto;
 }
 
-button,
+button, .button,
 input[type=submit],
 input[type=reset],
 #nav_elements a {
@@ -107,13 +107,14 @@ input[type=reset],
 }
 
 iframe {
+    margin: 30px 30px;
     box-shadow: 0 0 10px 1px rgb(25 202 224 / 20%);
     -webkit-transition: .3s cubic-bezier(.645, .045, .355, 1);
     transition: .3s cubic-bezier(0.65, 0.05, 0.36, 1);
     cursor: url('../img/cursor_hover.png'),auto;
 }
 
-button:hover,
+button:hover, .button,
 input:hover[type=submit],
 #nav_elements a:hover,
 #nav_elements a:active, a[href="#"] {
@@ -202,15 +203,10 @@ footer {
 
 .typewriter h1 {
     overflow: hidden;
-    /* Ensures the content is not revealed until the animation */
     border-right: .05em solid #19cae0;
-    /* The typwriter cursor */
     white-space: nowrap;
-    /* Keeps the content on a single line */
     margin: 0 auto;
-    /* Gives that scrolling effect as the typing happens */
     letter-spacing: .05em;
-    /* Adjust as needed */
     animation:
         typing 3.5s steps(40, end),
         blink-caret .75s step-end infinite;
@@ -318,7 +314,7 @@ footer {
 }
 
 .blog article,
-.card {
+.card, #disqus_thread {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -333,7 +329,7 @@ footer {
 }
 
 .blog article:hover,
-.portfolio div:hover {
+.portfolio div:hover, #disqus_thread:hover, iframe:hover{
     border-color: #19cae0;
     box-shadow: 0 0 30px 10px rgb(25 202 224 / 20%);
     opacity: 1;
@@ -350,6 +346,9 @@ footer {
 .contact {
     padding-bottom: 3em;
     width: 100vw;
+}
+#disqus_thread {
+    width: 70vw;
 }
 
 .services>ul:nth-child(odd) {
