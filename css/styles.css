@@ -212,6 +212,8 @@ footer {
     border-right: .05em solid #19cae0;
     white-space: nowrap;
     margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
     letter-spacing: .05em;
     animation:
         typing 3.5s steps(40, end),
