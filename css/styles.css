@@ -315,6 +315,10 @@ footer {
 
 /* BLOG */
 
+.tags {
+    max-width: 50vw;
+}
+
 .blog,
 .portfolio {
     display: flex;
