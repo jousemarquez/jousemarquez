@@ -267,6 +267,9 @@ footer {
     opacity: 0.7;
 }
 
+#container__mxgraph {
+    background-color: white !important;
+}
 
 .container>section {
     display: flex;

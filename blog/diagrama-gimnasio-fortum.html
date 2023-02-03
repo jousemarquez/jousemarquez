@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="title" content="Diagrama de clases para el Gimnasio Fortum" />
+    <meta name="description" content="Análisis del diagrama de clases para el Gimnasio Fortum" />
+    <meta name="keywords" content="portfolio, cv, markdown, html, css, grid, flex">
+    <meta name="language" content="es">
+    <meta name="author" content="joseantonio.marquez@a.vedrunasevillasj.es">
+    <meta name="revised" content="Viernes, 3 Febrero 2023, 7:00pm">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge, chrome1">
+    <meta http-equiv="refresh" content="300" ; URL="index.html">
+    <meta name="robots" content="INDEX,FOLLOW" />
+    <link href="../css/styles.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
+</head>
+
+<body>
+    <aside>
+        <nav>
+            <section id="logo"><a href="index.html" target="_self"><img src="../img/logo.png" alt="Logo"></a></section>
+            <section id="nav_elements">
+                <a href="../home/home.html">Home</a>
+                <a href="../blog/blog.html">Blog</a>
+                <a href="../portfolio/portfolio.html">Portfolio</a>
+                <a href="../services/services.html">Services</a>
+                <a href="../about/about.html">About</a>
+                <a href="../aboutme/aboutme.html">About me</a>
+                <a href="../contact/contact.html">Contact</a>
+            </section>
+        </nav>
+        <footer>
+            <p>
+            <h6>Copyright &copy;
+                <script>document.write(new Date().getFullYear())</script> <a href="https://github.com/jousemarquez"
+                    target="_blank" alt="Github">Jouse Márquez</a></p>
+                <p>
+                <h6>All Rights Reserved</h6>
+                </p>
+        </footer>
+    </aside>
+    <section class="container">
+        <section class="home">
+            <div class="typewriter">
+                <h1><span id="blue">Ejemplo UML Gimnasio</span></h1>
+            </div>
+            <span>
+                <date>3 de Febrero de 2023</date>
+                <author> - by <a href="../aboutMe/aboutme.html">Jouse Márquez</a></author>
+                <div id="redes_sociales">
+                    <a href="https://www.linkedin.com/in/jousemarquez/" class="fa fa-linkedin fa-2x"></a>
+                    <a href="https://www.linkedin.com/in/jousemarquez/" class="fa fa-github fa-2x"></a>
+                    <a href="mailto:joseantonio.marquez@a.vedrunasevillasj.es" class="fa fa-envelope fa-2x"></a>
+                </div>
+            </span>
+            <figure><img src="files/ejemplo-uml-gimnasio.png" alt=""></figure>
+            <p>
+                En estos tiempos de Pandemia uno de los sectores que más se han actualizado han sido los clubes
+                deportivos y los gimnasios, ya que algunos de estos últimos han creado un sistema online para estar
+                siempre
+                cerca de sus usuarios en caso de un nuevo confnamiento o de un horario restringido.
+            </p>
+            <p>
+                La fnalidad de este sistema online es proporcionar a sus usuarios unos planes de mejora física que
+                puedan
+                seguir de manera online.
+            </p>
+            <p>
+                Los administradores del sistema son usuarios con permisos especiales para realizar multitud de acciones
+                en
+                el sistema, pero de todos los usuarios ya sean clientes o monitores-administradores, se debe conocer
+                Nombre, apellido, DNI, domicilio, y teléfono.
+            </p>
+            <p>
+                En relación con los clientes, el sistema permite que un usuario anónimo pueda registrarse proporcionando
+                un
+                nombre y contraseña con los que podrá ingresar en posteriores ocasiones. Al registrarse deberá
+                introducir
+                también los datos de su perfl fsiológico, que consta de peso, altura y porcentaje de grasa corporal.
+                Posteriormente, los datos del perfl fsiológico podrán consultarse y modifcarse manualmente por parte del
+                usuario para refejar su evolución. Este registro conlleva un pago de cuotas que se articula mediante un
+                contrato con una fecha de caducidad.
+            </p>
+            <p>
+                Una de las funciones más importantes del sistema corresponde a actividades relacionadas con la mejora
+                física, que pueden ser desde ejercicios individuales hasta partidos de algún deporte. Estas actividades
+                son
+                ofertadas por el centro e introducidas en el sistema por los administradores, que además pueden realizar
+                las
+                operaciones típicas para su gestión: consulta, modifcación y borrado. La información que mantiene cada
+                actividad corresponde a su nombre, descripción, precio, fechas de inicio y fn y número de plazas, en el
+                caso
+                de las sesiones online de ejercicios individuales no tiene un mínimo de capacidad y se puede apuntar
+                todos
+                los socios que así lo deseen. En el caso de las actividades con precio, son actividades extras que se
+                ofertan
+                fuera de la cuota mensual de los usuarios. Los usuarios podrán ver las actividades ofertadas y
+                apuntarse,
+                realizando el pago correspondiente (del cuál se deberá almacenar su fecha). También podrán ver una lista
+                con todas sus actividades (pasadas y futuras) y desapuntarse con una semana de antelación a su inicio.
+                Además, por cada actividad los administradores deben conocer el listado de usuarios inscritos.
+            </p>
+            <p>
+                Otra parte importante del sistema son los planes de dietas. El sistema posee multitud de dietas que
+                introducen los administradores, y que deben almacenar un identifcador, un tipo (adelgazamiento, aumento
+                de peso, masa muscular, etc.), las calorías y un texto con la dieta en sí. Son los administradores los
+                que
+                asignan las dietas a los usuarios si así lo desean, por ello se desea mantener información sobre la
+                fecha de
+                inicio y fn de la última vez que el usuario ha intentado una dieta y de los días totales que el usuario
+                ha estado
+                realizando dicha dieta (ya que puede realizarla varias veces). Además, el usuario podrá consultar su
+                lista de
+                dietas personalizadas y si alguna le gusta más, seleccionarla para que se utilice en su plan activo, (
+                siempre
+                con el visto bueno del administrador). Por último, estos administradores también se encargarán de
+                gestionar
+                las dietas en cuanto a crear nuevas, editarlas, consultarlas y borrarlas.
+            </p>
+            <div id="container__mxgraph">
+                <div class="mxgraph" style="max-width:100%;border:1px solid transparent;"
+                    data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; modified=\&quot;2023-02-03T19:42:47.111Z\&quot; agent=\&quot;5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36\&quot; etag=\&quot;Ypcc5jlb4pkGTLIjYfGL\&quot; version=\&quot;20.8.16\&quot; type=\&quot;google\&quot;&gt;&lt;diagram id=\&quot;C5RBs43oDa-KdzZeNtuy\&quot; name=\&quot;Page-1\&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}">
+                </div>
+            </div>
+
+            <p>#html | #uml | #programming</p>
+
+            <section>
+                <script id="dsq-count-scr" src="//jousemarquez.disqus.com/count.js" async></script>
+            </section>
+        </section>
+        <section>
+            <h3>¿Te ha gustado el artículo? <span id="blue">Deja un comentario aquí</span></h3>
+            <div id="disqus_thread"></div>
+            <script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script>
+            <script>
+                    (function () { // DON'T EDIT BELOW THIS LINE
+                        var d = document, s = d.createElement('script');
+                        s.src = 'https://jousemarquez.disqus.com/embed.js';
+                        s.setAttribute('data-timestamp', +new Date());
+                        (d.head || d.body).appendChild(s);
+                    })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered
+                    by
+                    Disqus.</a></noscript>
+        </section>
+    </section>
+
+</body>
+
+</html>
