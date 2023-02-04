@@ -207,7 +207,7 @@ footer {
 
 /* MAIN */
 
-.typewriter h1 {
+.typewriter h1,h2 {
     overflow: hidden;
     border-right: .05em solid #19cae0;
     white-space: nowrap;
