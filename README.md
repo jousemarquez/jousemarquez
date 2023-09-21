@@ -1,28 +1,27 @@
-# ![https://quoromtv.com](https://github.com/jousemarquez/jousemarquez/blob/main/media/logo-quorom.png) Hola mundo, mi nombre es Jouse Márquez pero todo el mundo me llama Quorom ⚔️
-### Estudiante de Desarrollo Web
-#### Me he inspirado en el gran Brais Moure para construir este Readme.md. Puedes ver su magnífico contenido en [Moure](https://github.com/mouredev)!
+# ![https://quoromtv.com](https://github.com/jousemarquez/jousemarquez/blob/main/media/logo-quorom.png) Hello world, my name is Jouse Márquez, but everyone calls me Quorom ⚔️
+### Web Development Student
+#### I've been inspired by the great Brais Moure to build this Readme.md. You can see his magnificent content on [Moure](https://github.com/mouredev)!
 
-[![Website](https://img.shields.io/website?down_color=lighgrey&down_message=offline&style=social&up_color=blue&up_message=visit&url=https%3A%2F%2Fquoromtv.com%2F)](https://www.quoromtv.com)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=social&up_color=blue&up_message=visit&url=https%3A%2F%2Fquoromtv.com%2F)](https://www.quoromtv.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/quoromtv?style=social)](https://twitter.com/quoromtv)
 [![Twitch Status](https://img.shields.io/twitch/status/quoromtv?style=social)](https://twitch.com/quoromtv)
 [![Discord](https://img.shields.io/discord/245280601609994240?style=social&label=Discord&logo=discord)](https://discord.gg/pSWQXPr)
 
+As a Web Development student, my journey has just begun ⛏️, starting from the basics of coding.
 
-Soy estudiante de Desarrollo Web y acabo de comenzar mi carrera ⛏️ código desde la base.
+Over the past decade, my career has revolved around content production, encompassing roles such as a writer, web editor, blogger, manager of social media accounts, project overseer, and creator of audiovisual content for YouTube and Twitch. During this time, I've had the privilege of collaborating with clients from both domestic and international backgrounds, including countries like Saudi Arabia, Qatar, Oman, and Russia, among others. Throughout my professional life, English has served as my primary means of communication.
 
-He estado trabajando los últimos 10 años en la producción de contenidos como redactor, editor web, blogger, gestor de cuentas en redes sociales, gestión de proyectos y creador de contenido audiovisual para Youtube y Twitch. He tenido la suerte de trabajar con clientes tanto nacionales como internacionales (Arabia Saudí, Qatar, Omán, Rusia, entre otros) donde el inglés ha sido mi principal idioma de comunicación a lo largo de mi carrera.
+I thrive on being a self-directed learner, constantly immersing myself in content that enriches my professional profile. This perpetual quest for knowledge drives me to continually acquire fresh techniques and approaches to enhance my work.
 
-Autodidacta nato. Devoro contenido que me ayuda a potenciar mi perfil profesional, por lo que siempre aprendo técnicas o mecánicas nuevas para mejorar mi trabajo.
-
-## Tecnologías:
+## Technologies:
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-E4405F?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-FFCA28?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)]()<br>
-Puedes ver mis repositorios de [**JAVA**](https://github.com/jousemarquez/Java) y [**HTML y CSS**](https://github.com/jousemarquez/Marcas)
+You can see my repositories for [**JAVA**](https://github.com/jousemarquez/Java) and [**HTML and CSS**](https://github.com/jousemarquez/Marcas).
 
-## Encuéntrame en:
+## Find me on:
 
 [![Twitch](https://img.shields.io/badge/Twitch-quoromtv-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.com/quoromtv)
 [![Discord](https://img.shields.io/badge/Discord-quoromtv-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/pSWQXPr)
@@ -30,16 +29,16 @@ Puedes ver mis repositorios de [**JAVA**](https://github.com/jousemarquez/Java) 
 [![Instagram](https://img.shields.io/badge/Instagram-@quoromtv-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/quoromtv)
 [![TikTok](https://img.shields.io/badge/TikTok-@quoromtv-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@quoromtv)
 
-## Siege of Mytra: Asedio de Castillos en la Blockchain
+## Siege of Mytra: Castle Siege on the Blockchain
 ![https://siegeofmytra.com/](https://github.com/jousemarquez/jousemarquez/blob/main/media/siege%20of%20mytra.png)
 
-**Siege of Mytra** es un videojuego móvil de estrategia RPG asíncrono basado en la cadena de bloques de [*WAX*](https://on.wax.io/wax-io/). Comanda a tus héroes, construye tu ejército de tropas y mercenarios, asedia castillos enemigos, gana recursos y clasifica en el ranking de la comunidad de Siege of Mytra para conseguir premios en NFT y tokens de $DOBLON.
+**Siege of Mytra** is an asynchronous mobile strategy RPG game based on the [*WAX*](https://on.wax.io/wax-io/) blockchain. Command your heroes, build your army of troops and mercenaries, besiege enemy castles, earn resources, and rank in the Siege of Mytra community to win NFT rewards and $DOBLON tokens.
 
-Disponible la versión de pruebas en **[iOS](https://siegeofmytra.com/testflight)** y **[Android](https://play.google.com/store/apps/details?id=com.onikami.siegeofmytra)**. Sigue los pasos para su instalación en esta guía (en inglés) **[Guía](https://onikami.gitbook.io/som-testnet-guide/)** y aprende todos los detalles del juego en nuestra página web **[Siege of Mytra](https://siegeofmytra.com/)**
+The test version is available on **[iOS](https://siegeofmytra.com/testflight)** and **[Android](https://play.google.com/store/apps/details?id=com.onikami.siegeofmytra)**. Follow the installation steps in this guide (in English) **[Guide](https://onikami.gitbook.io/som-testnet-guide/)** and learn all the game details on our website **[Siege of Mytra](https://siegeofmytra.com/)**.
 
-[![Web](https://img.shields.io/badge/Siege%20of%20Mytra-Web%20Oficial-orange?style=for-the-badge)](https://siegeofmytra.com/)
+[![Web](https://img.shields.io/badge/Siege%20of%20Mytra-Official%20Website-orange?style=for-the-badge)](https://siegeofmytra.com/)
 
-## Algunos vídeos en YouTube:
+## Some Videos on YouTube:
 
 <table style="width:100%">
     <tr>
@@ -55,14 +54,12 @@ Disponible la versión de pruebas en **[iOS](https://siegeofmytra.com/testflight
 
 ![https://onikami.com/](https://github.com/jousemarquez/Marcas/blob/main/onikami.png)
 
-Onikami (*oni + kami*) Games surgió a principios de 2013 como el embrión de un estudio independiente de videojuegos. Después de un primer año emocionante, en el que publicamos nuestros primeros trabajos, tuvimos que abandonar el proyecto por motivos profesionales y personales de los 3 miembros del equipo.
+Onikami (*oni + kami*) Games emerged in early 2013 as the embryo of an independent game development studio. After an exciting first year, during which we published our initial works, we had to abandon the project due to professional and personal reasons of the 3 team members.
 
-Actualmente trabajamos en el desarrollo de videojuegos en la blockchain con **Siege of Mytra** y en la elaboración de smart contract con fines comerciales.
+Currently, we work on blockchain game development with **Siege of Mytra** and the creation of smart contracts for commercial purposes.
 
-[![Web](https://img.shields.io/badge/Onikami%20Games-Web%20Oficial-pink?style=for-the-badge)](https://onikami.com/)
+[![Web](https://img.shields.io/badge/Onikami%20Games-Official%20Website-pink?style=for-the-badge)](https://onikami.com/)
 
-## Contacto y apoyo:
+## Contact and Support:
 
-[![Email](https://img.shields.io/badge/jose@onikami.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jose@onikami.com)
-</br>
-Made with 💜 in **Seville**
+[![Email](https://img.shields.io/badge/jose@onikami.com-personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jose@onikami
