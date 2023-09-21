@@ -62,4 +62,6 @@ Currently, we work on blockchain game development with **Siege of Mytra** and th
 
 ## Contact and Support:
 
-[![Email](https://img.shields.io/badge/jose@onikami.com-personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jose@onikami
+[![Email](https://img.shields.io/badge/jose@onikami.com-personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jose@onikami.com)
+</br>
+Made with 💜 in **Seville**
