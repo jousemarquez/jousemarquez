@@ -32,6 +32,6 @@ I thrive on being a self-directed learner, constantly immersing myself in conten
 
 ## Contact and Support:
 
-[![Email](https://img.shields.io/badge/jose@onikami.com-personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mquezflores@gmail.com)
+[![Email](https://img.shields.io/badge/mquezflores@gmail.com-personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mquezflores@gmail.com)
 </br>
 Made with 💜 in **Seville**
