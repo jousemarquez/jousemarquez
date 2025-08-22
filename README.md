@@ -24,6 +24,6 @@ My expertise includes customizing themes based on Luma and Blank, evolving core 
 
 ## Contact and Support:
 
-[![Email](https://img.shields.io/badge/mquezflores@gmail.com-personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mquezflores@gmail.com)
+[![Email](https://img.shields.io/badge/jouse@codes.com-personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jouse@codes.com)
 </br>
 Made with 💜 in **Seville**
